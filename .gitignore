@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Project-specific exclusions ───────────────────────────────────────────────
+
+# Raw data files — licensed from Databento, too large for version control
+data/
+
+# Generated results — reproduced by running the code
+results/
+
+# CSV outputs from any script
+*.csv
