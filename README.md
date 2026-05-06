@@ -233,7 +233,7 @@ purpose including commercial use, with attribution.
 If you use this code or methodology in your own research, please cite:
 
 ```
-[Author Name]. "Pre-Registered Tests of Failed Weekly Auction Reversion
+[Desmon Perry]. "Pre-Registered Tests of Failed Weekly Auction Reversion
 in Liquid Futures Markets." SSRN Working Paper, 2026.
 Available at: [SSRN link]
 ```
