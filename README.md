@@ -251,4 +251,4 @@ not reproduce any result reported in the paper. It is available on request.
 
 ## Contact
 
-[Your preferred contact — LinkedIn profile URL or email]
+[linkedin.com/in/desperry]
